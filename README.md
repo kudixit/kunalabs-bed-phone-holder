@@ -3,6 +3,8 @@
 A bed-mounted, multi-axis articulated phone holder designed and prototyped
 from scratch using Fusion 360 and FDM 3D printing.
 
+<img width="1858" height="1240" alt="Photo on 10-2-26 at 11 06 AM" src="https://github.com/user-attachments/assets/76922aee-75df-4d6d-9480-6bedabb7d6bc" />
+
 ## The Problem
 
 I wanted a phone holder that could mount directly to my bed frame, extend to
