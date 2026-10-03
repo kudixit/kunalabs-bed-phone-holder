@@ -8,7 +8,6 @@ incorporating lessons learned from mechanical testing of the original design.
 
 <!-- Replace with final V2 image -->
 <img width="3024" height="4032" alt="V2 Final Version" src="https://github.com/user-attachments/assets/6403b41a-0b9d-45d4-a7ba-d1238d322944" />
-<img width="1858" height="1240" alt="V2 Landscape View" src="https://github.com/user-attachments/assets/4afb13d9-e8ae-488f-839d-3618a789d92d" />
 
 
 ## The Problem
@@ -194,8 +193,10 @@ The holder can be loosened for repositioning and manually tightened to
 securely maintain the desired viewing position.
 
 <!-- Replace with final real-life V2 photo -->
-<img width="3024" height="4032" alt="V2 Final Version" src="https://github.com/user-attachments/assets/8ab3532a-930c-4394-af32-94568c87251d" />
-<img width="1858" height="1240" alt="V2 Landscape View" src="https://github.com/user-attachments/assets/8ad5041d-9a26-4c21-85f0-10330381b909" />
+<img width="726" height="634" alt="V2 Slanted View 2" src="https://github.com/user-attachments/assets/9f82d3bc-fd64-4d71-9d3f-3ce1775eb9c7" />
+<img width="690" height="741" alt="V2 Portrait View 2" src="https://github.com/user-attachments/assets/de2f6166-38ad-4921-ac89-9281faef2dee" />
+<img width="697" height="671" alt="V2 Lanscape View 2" src="https://github.com/user-attachments/assets/413b3e54-ab4a-4420-b04a-69c6c4e18dcd" />
+
 
 
 ---
